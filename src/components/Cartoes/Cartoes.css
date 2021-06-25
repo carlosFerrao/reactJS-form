@@ -1,0 +1,21 @@
+.MuiIconButton-root {
+  float: right;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-between;
+}
+.delete-icon {
+  float: right !important;
+  padding: 10px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.MuiCircularProgress-colorPrimary {
+  color: white !important;
+}
